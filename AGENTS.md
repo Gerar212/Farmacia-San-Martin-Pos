@@ -14,3 +14,4 @@
   - Todo cambio pasa por un Pull Request; nada se sube directo a la rama principal.
   - Declarar el uso de IA en la bitácora de cada PR y escribir estructuras de datos y algoritmos a mano.
   - Todo código debe poder explicarse con claridad.
+  
